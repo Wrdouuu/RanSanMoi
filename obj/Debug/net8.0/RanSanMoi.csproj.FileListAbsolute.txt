@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\bin\Debug\net8.0\RanSanMoi.exe
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\bin\Debug\net8.0\RanSanMoi.deps.json
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\bin\Debug\net8.0\RanSanMoi.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\bin\Debug\net8.0\RanSanMoi.dll
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\bin\Debug\net8.0\RanSanMoi.pdb
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.dll
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\refint\RanSanMoi.dll
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.pdb
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\RanSanMoi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\RanSanMoi\obj\Debug\net8.0\ref\RanSanMoi.dll
